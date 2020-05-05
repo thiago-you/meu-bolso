@@ -1,0 +1,2 @@
+rootProject.name='Meu Bolso'
+include ':app'

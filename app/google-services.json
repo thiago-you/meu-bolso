@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "529231079203",
+    "firebase_url": "https://you-meu-bolso.firebaseio.com",
+    "project_id": "you-meu-bolso",
+    "storage_bucket": "you-meu-bolso.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529231079203:android:536415ca4311218f050e96",
+        "android_client_info": {
+          "package_name": "you.thiago.meubolso"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "529231079203-hhuiq4mfj6b0dq9ki83vpgvsd0nu5363.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "you.thiago.meubolso",
+            "certificate_hash": "7c0b74ee03d3ab533525de961db40f21dd831ad7"
+          }
+        },
+        {
+          "client_id": "529231079203-fgm232mnmqqk2v4l0kpqejf6i6nq1dsk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4-Edxd-k9zYaUFfBT9OplrSy3ivx1euM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "529231079203-fgm232mnmqqk2v4l0kpqejf6i6nq1dsk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
